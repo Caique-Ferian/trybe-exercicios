@@ -1,0 +1,142 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.trybe-green {
+    color: #11a36a;
+}
+
+#hero-title {
+    color: #0a7e51;
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 600;
+}
+
+.pictures {
+    border-radius: 100%;
+}
+
+h2 {
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 600;
+}
+
+p, li {
+    color: #475550;
+    font-size: 15px;
+}
+
+li {
+    font-size: 16px;
+    line-height: 1.4em;
+    list-style-type: square;
+}
+
+.green-button {
+    background-color: #11a36a;
+    padding: 15px 30px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    margin: 20px auto;
+    width: 300px;
+    display: block;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+#header {
+    background-image: url(/images/smiling-image.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: 0% 25%;
+    padding: 100px 200px;
+}
+
+#header-text {
+    width: 50%;
+}
+
+#header-text p {
+    margin: 20px 0;
+}
+
+#market {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#market p {
+    margin: 20px 0;
+}
+
+#market-text {
+    width: 50%;
+    margin: auto;
+}
+
+.section-title {
+    margin: 50px 0;
+}
+
+#testmonials {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.student-testimonial {
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    margin: 30px;
+}
+
+.student-testimonial img {
+    width: 120px;
+}
+
+.student-testimonial p {
+    margin: 30px 0;
+}
+
+#learning {
+    height: 600px;
+    padding: 50px 15%;
+    background-color: #cccccc;
+}
+
+#footer {
+    background-color: #cccccc;
+    text-align: center;
+    padding: 50px;
+}
+
+#learning-left {
+    float: left;
+}
+
+#learning-right {
+    float: right;
+}
+
+#learning-right img {
+    width: 600px;
+}
+
+#learning-left li {
+    /* line-height: 40px; */
+    margin-bottom: 40px;
+}
+

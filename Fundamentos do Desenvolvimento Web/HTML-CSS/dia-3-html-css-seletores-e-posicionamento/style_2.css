@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+} 
+body {
+    font-family: 'Montserrat', sans-serif
+}
+
+.pictures{
+    border-radius: 100%;
+}
+
+.trybe-green {
+    color: #11a36a;
+}
+
+#hero-title {
+    color: #0a7e51;
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 600;
+}
+
+h2 {
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 600;
+}
+
+p,li{
+    color: #475550;
+    font-size: 16px;
+
+}
+
+li {
+    font-size: 16px;
+    line-height: 1.4em;
+    list-style-type:square;
+}
+
+h3{
+    font-weight: 400;
+}
+
+.green-button{
+    background-color:#11a36a ;
+    text-decoration: none;
+    padding: 15px 30px;
+    color: #fff;
+    display: block;
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 4px;
+}
+#header{
+    background-image: url(images/smiling-image.jpg);
+    height:600px;
+    background-size: cover;
+    background-position: 0 25%;
+    padding: 100px 200px;
+}
+#header-title{
+    width: 50%;
+}
+#header-title p{
+    padding-top: 20px;
+}
+#market{
+    text-align: center;
+    padding-bottom: 50px;
+}
+#market p{
+    margin: 20px 0;
+}
+#market h2{
+    margin:50px;
+}
+#market-text{
+    width:50%;
+    margin:auto;
+}
+#market-margin{
+    padding-top: 34px;
+}
+#testimonials{
+    text-align: center;
+    width: 60%;
+    margin:auto;
+}
+.testimonials-student{
+    display: inline-block;
+    width:25%;
+    text-align: center;
+    vertical-align: middle;
+    padding: 84px 30px;
+}
+.testimonials-student p{
+    margin:30px 0;
+}
+#founders{
+    width: 60%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 100px 30px;
+
+}
+#founders-text{
+    margin-bottom: 140px;
+}
+.testimonials-founders{
+    display:inline-block;
+    width: 47%;
+    text-align:left;
+    margin:10px
+    
+    
+    
+}
+.float{
+    float: left;
+    margin-right: 20px;
+}
+.testimonials-founders p,h3{
+    text-align: left;  
+}
+#learning{
+    height:600px;
+    padding: 50px 15%;
+}
+#learning-left{
+    float: left;
+}
+#learning-left h2{
+    margin: 50px 0;
+}
+#learning-left li{
+    margin-bottom: 40px;
+}
+#learning-right{
+    float:right;
+}
+#footer{
+    padding:50px;
+}
+#footer h3{
+    text-align:center;
+}
+a:hover{
+    background-color: #0d8b5a;
+}
