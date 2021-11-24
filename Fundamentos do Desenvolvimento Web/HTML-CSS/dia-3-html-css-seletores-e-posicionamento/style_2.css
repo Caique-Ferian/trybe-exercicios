@@ -66,3 +66,17 @@ h3{
 #header-title p{
     padding-top: 20px;
 }
+#market{
+    text-align: center;
+    padding-bottom: 50px;
+}
+#market p{
+    margin: 20px 0;
+}
+#market h2{
+    margin:50px;
+}
+#market-text{
+    width:50%;
+    margin:auto;
+}
