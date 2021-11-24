@@ -125,3 +125,28 @@ h3{
 .testimonials-founders p,h3{
     text-align: left;  
 }
+#learning{
+    height:600px;
+    padding: 50px 15%;
+}
+#learning-left{
+    float: left;
+}
+#learning-left h2{
+    margin: 50px 0;
+}
+#learning-left li{
+    margin-bottom: 40px;
+}
+#learning-right{
+    float:right;
+}
+#footer{
+    padding:50px;
+}
+#footer h3{
+    text-align:center;
+}
+a:hover{
+    background-color: #0d8b5a;
+}
