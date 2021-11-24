@@ -1,52 +1,68 @@
-  
-            body {
-                font-family: 'Montserrat', sans-serif
-            }
+*{
+    margin:0;
+    padding:0;
+} 
+body {
+    font-family: 'Montserrat', sans-serif
+}
 
-            .pictures{
-                border-radius: 100%;
-            }
+.pictures{
+    border-radius: 100%;
+}
 
-            .trybe-green {
-                color: #11a36a;
-            }
+.trybe-green {
+    color: #11a36a;
+}
 
-            #hero-title {
-            color: #0a7e51;
-            font-size: 45px;
-            line-height: 55px;
-            font-weight: 600;
-            }
+#hero-title {
+    color: #0a7e51;
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 600;
+}
 
-            h2 {
-                font-size: 28px;
-                line-height: 42px;
-                font-weight: 600;
-            }
+h2 {
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 600;
+}
 
-            p,li{
-                color: #475550;
-                font-size: 16px;
+p,li{
+    color: #475550;
+    font-size: 16px;
 
-            }
+}
 
-            li {
-                font-size: 16px;
-                line-height: 1.4em;
-                list-style-type:square;
-            }
+li {
+    font-size: 16px;
+    line-height: 1.4em;
+    list-style-type:square;
+}
 
-            h3{
-                font-weight: 400;
-            }
+h3{
+    font-weight: 400;
+}
 
-            .green-button{
-                background-color:#11a36a ;
-                text-decoration: none;
-                padding: 15px 30px;
-                color: #fff;
-                display: block;
-                width: 300px;
-                margin: 20px auto;
-                border-radius: 4px;
-            }
+.green-button{
+    background-color:#11a36a ;
+    text-decoration: none;
+    padding: 15px 30px;
+    color: #fff;
+    display: block;
+    width: 300px;
+    margin: 20px auto;
+    border-radius: 4px;
+}
+#header{
+    background-image: url(images/smiling-image.jpg);
+    height:600px;
+    background-size: cover;
+    background-position: 0 25%;
+    padding: 100px 200px;
+}
+#header-title{
+    width: 50%;
+}
+#header-title p{
+    padding-top: 20px;
+}
