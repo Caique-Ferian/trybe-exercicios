@@ -1,0 +1,23 @@
+body{
+    font-family: monospace;
+  }
+  p{
+    width:30%;
+    line-height: 25px;
+    
+  }
+  a:hover{
+    font-weight: bold;
+    font-size: 15px;
+  }
+  #bicho-nativo:hover{
+    color: rgb(116, 198, 186);
+    
+  } 
+  #wikipedia:hover{ 
+     color:#000;
+  
+}
+#images:hover{
+  color: #58c6d5;
+}
