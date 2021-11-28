@@ -21,3 +21,9 @@ body{
 #images:hover{
   color: #58c6d5;
 }
+aside{
+   margin-top: 20px;
+}
+footer{
+    text-align:right;
+}
