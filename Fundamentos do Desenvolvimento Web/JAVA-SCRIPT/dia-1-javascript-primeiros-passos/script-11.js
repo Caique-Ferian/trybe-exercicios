@@ -1,4 +1,4 @@
-let sal = 6000;
+let sal = 3000;
 let aliquota1;
 let inss;
 let salBase;
