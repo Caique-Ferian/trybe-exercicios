@@ -57,13 +57,33 @@
   </head>
   <body>
     <script>
+      //Exercício 1
       let body= document.querySelector('body');
       let newTitle= document.createElement('h1');
       newTitle.innerText=' Exercício 5.2 - JavaScript DOM';
       body.appendChild(newTitle);
+      //Exercicio 2
       let newMain= document.createElement('main');
       newMain.className='main-content';
       body.appendChild(newMain);
+      //Exercicio 3
+      let mainTag= document.getElementsByClassName('main-content');
+      let newSection= document.createElement('section');
+      newSection.className='center-content';
+      mainTag[0].appendChild(newSection);
+    //Exercício 4
+    let newParagraph= document.createElement('p');
+    newParagraph.innerText='Criando Conteudos HTML atraves do JavaScript.'
+    let sectionTag=document.querySelector('.center-content');
+    sectionTag.appendChild(newParagraph);
+    //Exercício 5
+    let newSectionLeft= document.createElement('section');
+      newSectionLeft.className='left-content';
+      mainTag[0].appendChild(newSectionLeft);
+    //Exercício 6
+    let newSectionRight= document.createElement('section');
+      newSectionRight.className='right-content';
+      mainTag[0].appendChild(newSectionRight);
     </script>
   </body>
 </html>
