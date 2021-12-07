@@ -60,7 +60,7 @@
       //Exercício 1
       let body= document.querySelector('body');
       let newTitle= document.createElement('h1');
-      newTitle.innerText=' Exercício 5.2 - JavaScript DOM';
+      newTitle.innerText=' Exercise 5.2 - JavaScript DOM';
       body.appendChild(newTitle);
       //Exercicio 2
       let newMain= document.createElement('main');
@@ -73,7 +73,7 @@
       mainTag[0].appendChild(newSection);
     //Exercício 4
     let newParagraph= document.createElement('p');
-    newParagraph.innerText='Criando Conteudos HTML atraves do JavaScript.'
+    newParagraph.innerText='Create content in HTML with JavaScript DOM.'
     let sectionTag=document.querySelector('.center-content');
     sectionTag.appendChild(newParagraph);
     //Exercício 5
@@ -84,6 +84,34 @@
     let newSectionRight= document.createElement('section');
       newSectionRight.className='right-content';
       mainTag[0].appendChild(newSectionRight);
+    //Exercício 7
+    let leftSection= document.querySelector('.left-content');
+    let image= document.createElement('img');
+    image.src='https://picsum.photos/200';
+    leftSection.appendChild(image);
+    //Exercício 8
+    let rightSection= document.querySelector('.right-content');
+    let unorderedList= document.createElement('ul');
+    rightSection.appendChild(unorderedList);
+    let list= document.getElementsByTagName('ul');
+    let listContent=['one','two','three','four','five','six','seven','eight','nine','ten'];
+    for(let index=0;index<10;index+=1){
+        let listItens= document.createElement('li');
+        listItens.innerText=listContent[index];
+        list[0].appendChild(listItens);
+    }
+    //Exercício 9 e 11
+    for(let add=0;add<3;add+=1){
+        let newSubtitle= document.createElement('h3');
+        newSubtitle.className='description';
+        mainTag[0].appendChild(newSubtitle);
+    }
+    //Exercício 10
+    newTitle.className='title';
+    //Exercicio 12
+    let removeSectionLeft= document.querySelector('.left-content');
+    mainTag[0].removeChild(removeSectionLeft);
+
     </script>
   </body>
 </html>
