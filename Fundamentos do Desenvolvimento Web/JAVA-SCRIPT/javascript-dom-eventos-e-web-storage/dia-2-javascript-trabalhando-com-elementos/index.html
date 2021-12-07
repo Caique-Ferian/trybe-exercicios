@@ -109,9 +109,19 @@
     //Exercício 10
     newTitle.className='title';
     //Exercicio 12
-    let removeSectionLeft= document.querySelector('.left-content');
-    mainTag[0].removeChild(removeSectionLeft);
-
+    mainTag[0].removeChild(leftSection);
+    //Exercício 13
+    rightSection.style.marginRight='auto';
+    //Exercicio 14
+    mainTag[0].style.backgroundColor='green';
+    //Exercício 15
+    for(let removing=0;removing<10;removing+=1){
+        let listItens= document.querySelectorAll('li');
+        if(listItens[removing].innerText.includes('nine')){
+            list[0].removeChild(listItens[removing]);
+            list[0].removeChild(listItens[removing+1]);
+        }
+    }
     </script>
   </body>
 </html>
