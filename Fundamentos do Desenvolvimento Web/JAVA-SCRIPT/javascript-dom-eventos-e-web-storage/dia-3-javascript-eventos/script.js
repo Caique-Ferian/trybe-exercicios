@@ -172,3 +172,22 @@ function attributeTask(){
 });
 }
 attributeTask();
+//Exercicio 11
+function addCommitment(){
+    const input= document.querySelector('#task-input');
+    const button = document.getElementById('btn-add');
+    button.addEventListener('click', function(event){
+        const list= document.querySelector('.task-list');
+        const listElements= document.createElement('li');
+        listElements.innerText=input.value;
+        list.appendChild(listElements);
+        if(event.key=='Enter'){
+            listElements.innerText=input.value;
+            list.appendChild(listElements); 
+        }
+        if(input.value== ''){
+            alert('Erro!!!Nada foi digitado');
+        }
+    });
+}
+addCommitment();
