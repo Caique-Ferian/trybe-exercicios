@@ -93,23 +93,24 @@ createButtonFriday('Sexta-feira');
 //Exercicio 5
 function fridaysChangeText(){
     const button = document.getElementById('btn-friday');
-    let counting =0;
-    button.addEventListener('click',function(event){
+    //let counting =0;
+    button.addEventListener('click',function(/*event*/){
         const fridays= document.getElementsByClassName('friday');
         let oldText=['4','11','18','25'];
-        if(event.type==='click'){
-            counting+=1;
+        //if(event.type==='click'){
+            //counting+=1;
             for(let index=0;index<fridays.length;index+=1){
-                
-                fridays[index].innerText='SEXTOU!!';
-                if(counting%2===0){ 
+                if(fridays[index].innerText!=='SEXTOU!!'){
+                    fridays[index].innerText='SEXTOU!!';
+                }else if(fridays[index].innerText==='SEXTOU!!'){
+                    //if(counting%2===0){ 
                     fridays[index].innerText= oldText[index];
                 }
             }        
-        }
+        });
 
-    });
-}
+    }
+
 fridaysChangeText();
 //Exercicio 6
 function zoom (){
@@ -157,15 +158,14 @@ selectSubtitle();
 //Exercicio 10
 function attributeTask(){
     const taskSelected= document.querySelector('.task');
-    let count=0;
     taskSelected.addEventListener('click', function(){    
         const list= document.getElementById('days');
         list.addEventListener('click', function (event){
-            if(event.type==='click'){
+            if(event.target.style.color!=='green'){
                 event.target.style.color='green';
-                count+=1;
             }
-            if(count%2===0){
+            else if (event.target.style.color==='green'){
+           
                 event.target.style.color='rgb(119,119,119)';
             }
         });
