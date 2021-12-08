@@ -17,4 +17,4 @@ for(let triangulo=0; triangulo<n;triangulo+=1){
     console.log(desenho);
     desenho='';
     inputSpace-=1;
-} 
+}

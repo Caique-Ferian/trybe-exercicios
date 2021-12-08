@@ -22,26 +22,33 @@ function placeDaysOfTheMonth() {
         const dayList= document.createElement('li');
         if(dezDaysList[index]=== 4){
             dayList.innerText= dezDaysList[index];
-            dayList.className='friday';    
+            dayList.className='friday';
+            dayList.classList.add('days-list');     
         }else if(dezDaysList[index]=== 11){
             dayList.innerText= dezDaysList[index];
-            dayList.className='friday';    
+            dayList.className='friday';
+            dayList.classList.add('days-list');    
         }else if(dezDaysList[index]=== 18){
             dayList.innerText= dezDaysList[index];
-            dayList.className='friday';    
+            dayList.className='friday';
+            dayList.classList.add('days-list');    
         }else if(dezDaysList[index]=== 24){
             dayList.innerText= dezDaysList[index];
-            dayList.className='holiday';    
+            dayList.className='holiday';
+            dayList.classList.add('days-list');    
         }else if(dezDaysList[index]=== 25){
             dayList.innerText= dezDaysList[index];
             dayList.className='holiday'; 
-            dayList.classList.add('friday');    
+            dayList.classList.add('friday');
+            dayList.classList.add('days-list');    
         }else if(dezDaysList[index]=== 31){
             dayList.innerText= dezDaysList[index];
             dayList.className='holiday';
+            dayList.classList.add('days-list');
                
         }else{
             dayList.innerText= dezDaysList[index];
+            dayList.classList.add('days-list');
         }
         daysOfTheMonth.appendChild(dayList);
     }
@@ -90,9 +97,6 @@ function fridaysChangeText(){
     button.addEventListener('click',function(event){
         const fridays= document.getElementsByClassName('friday');
         let oldText=['4','11','18','25'];
-        // for(let fill=0;fill<fridays.length;fill+=1){
-        //     oldText.push(fridays[fill].innerText);
-        // }
         if(event.type==='click'){
             counting+=1;
             for(let index=0;index<fridays.length;index+=1){
@@ -107,3 +111,64 @@ function fridaysChangeText(){
     });
 }
 fridaysChangeText();
+//Exercicio 6
+function zoom (){
+    const list= document.getElementById('days');
+    list.addEventListener('mouseover', function (event){
+       event.target.style.fontSize='30px';
+    });
+    list.addEventListener('mouseout', function (event){
+        event.target.style.fontSize='20px';
+    });
+}
+zoom();
+//Exercicio 7
+function tasks (string){
+    const myTasks= document.querySelector('.my-tasks');
+    const createTask= document.createElement('span');
+    createTask.innerText=string;
+    myTasks.appendChild(createTask);
+}
+tasks('Estudar');
+//Exercicio 8
+function subtitle (color){
+    const myTasks= document.querySelector('.my-tasks');
+    const createSubtitle= document.createElement('div');
+    createSubtitle.className='task';
+    createSubtitle.style.backgroundColor=color;
+    myTasks.appendChild(createSubtitle);
+}
+subtitle('green');
+//Exercicio 9
+function selectSubtitle(){
+    const subtitle= document.querySelector('.task');
+    let count=0;
+    subtitle.addEventListener('click', function(event){
+        if(event.type==='click'){
+            count+=1;
+            subtitle.classList.add('task-selected');
+            if(count%2===0){
+                subtitle.classList.remove('task-selected');
+            }
+        }
+    });
+}
+selectSubtitle();
+//Exercicio 10
+function attributeTask(){
+    const taskSelected= document.querySelector('.task');
+    let count=0;
+    taskSelected.addEventListener('click', function(){    
+        const list= document.getElementById('days');
+        list.addEventListener('click', function (event){
+            if(event.type==='click'){
+                event.target.style.color='green';
+                count+=1;
+            }
+            if(count%2===0){
+                event.target.style.color='rgb(119,119,119)';
+            }
+        });
+});
+}
+attributeTask();
