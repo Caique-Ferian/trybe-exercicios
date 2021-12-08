@@ -1,0 +1,22 @@
+.paragraph{
+    width:60%;
+    text-align:center;
+    margin:auto;
+    margin-top: 50px;
+    font-size: 20px;
+    line-height:30px;
+}
+.block-button{
+    display:inline-block;
+    margin-left: 10%;
+    padding-bottom: 30px;
+    width:8%;
+    vertical-align: middle;
+    
+}
+.button{
+    display:inline-block;
+    margin-right: 60%;
+    margin-bottom: 10px;
+    text-align: center;
+}
