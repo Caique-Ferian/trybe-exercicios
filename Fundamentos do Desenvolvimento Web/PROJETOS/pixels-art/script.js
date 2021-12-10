@@ -186,6 +186,7 @@ window.onload=function (){
                 div.className='pixel';
                 board.appendChild(div);
             }
+            board.style.width='650px';
         });
     }
     createBoard();

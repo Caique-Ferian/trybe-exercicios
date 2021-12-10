@@ -3,9 +3,9 @@
     padding: 0;  
 }
 #color-palette{
-    width:25%;
+    width:330px;
     margin-bottom: 20px;
-    margin-left: 38%;
+    margin-left: 35%;
     margin-top:72px;
     
 }
@@ -22,15 +22,15 @@
 
 }
 #pixel-board{
-    width:22.5%;
-    margin-left: 38%;
+    width:350px;
+    margin-left: 35%;
     margin-bottom: 50px;
     border-radius: 25%;
     
 }
 .pixel{
     border: 1px solid black;
-    padding-bottom: 6%;
+    padding-bottom: 20px;
     padding-right: 19px;
     width:40px;
     height: 40px;
@@ -44,7 +44,7 @@
 #clear-board{
     width:5%;
     margin-bottom: 20px;
-    margin-left: 37.7%;
+    margin-left: 35%;
     margin-right: 20px;
     box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.452) ;
 }
