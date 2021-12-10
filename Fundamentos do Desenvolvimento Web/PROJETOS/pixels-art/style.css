@@ -57,6 +57,7 @@ header{
     width: 100%;
     background-image: url(/header.jpg);
     background-size: cover;
+    border: 1px solid black;
 }
 h1{
     
