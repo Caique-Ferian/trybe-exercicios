@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Meme Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>MEME GENERATOR</h1>
+    <span>Texto: <input type="text" id="text-input" placeholder="Frase para Meme" maxlength="60"></span>
+    <div id="insert-container">Foto: 
+        <input type='file' id="meme-insert" accept="image/*" name="image" onchange="loadFile(event)" style="display: none;">
+        <input type='button' id="button-id" value="Choose file">
+    </div>
+    <div id="meme-image-container">
+            <img id="meme-image" width="400">
+       <div id="text-container"></div>
+    </div>
+    <div id="buttons-container">
+        <button id="fire">Fire</button>
+        <button id="water">Water</button>
+        <button id="earth">Earth</button>
+        <button id="default">Default</button>
+        <script src="script.js"></script>
+    </div>
+    <div id="memes-container">
+        <img src="imgs/meme1.png" alt="Meme pronto 1" id="meme-1" onclick="meme1()">
+        <img src="imgs/meme2.png" alt="Meme pronto 2"id="meme-2" onclick="meme2()">
+        <img src="imgs/meme3.png" alt="Meme pronto 3"id="meme-3" onclick="meme3()">
+        <img src="imgs/meme4.png" alt="Meme pronto 4"id="meme-4" onclick="meme4()">
+        <!-- Feito com ajuda: https://www.ti-enxame.com/pt/javascript/como-adiciono-um-evento-.click-uma-imagem/940043914/ -->
+    </div>
+</body>
+</html>
