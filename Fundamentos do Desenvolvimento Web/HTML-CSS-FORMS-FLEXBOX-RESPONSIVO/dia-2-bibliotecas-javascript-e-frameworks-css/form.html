@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="container text-center">
+        <h1 class="display-3">Formulário para cadastro de currículo</h1>
+        <p>Preencha os campos abaixo.</p>    </header>
+    <main>
+        <form action="" method="get" id="cv-form">
+            <div class="form-row">
+
+                <fieldset>
+                    <div class="container">
+                        <label for="input-name" class="form-label lead">Nome Completo:</label>
+                        <input type="text" name="nome" placeholder="informe seu nome completo" required maxlength="40" id="input-name" class="div-curriculum form-control">
+                    </div>
+                    <div class="container">
+                        <label for="input-email" class="form-label lead">E-mail:</label>
+                        <input type="text" name="email" placeholder="informe seu email" required maxlength="50" id="input-email" class="div-curriculum form-control">
+                    </div>
+                    <div class="container">
+                        <label for="input-cpf" class="form-label lead">CPF:</label>
+                        <input type="text" name="cpf" placeholder="informe CPF" required maxlength="11" id="input-cpf" class="div-curriculum form-control">
+                    </div>
+                    <div class="container">
+                        <label for="input-endereco" class="form-label lead">Endereco:</label>
+                        <input type="text" name="endereco" placeholder="informe seu endereco" required maxlength="200" id="input-endereco" class="div-curriculum form-control"> 
+                    </div>
+                    <div class="container">
+                        <label for="input-cidade" class="form-label lead">Cidade:</label>
+                        <input type="text" name="cidade" placeholder="informe sua cidade" required maxlength="28" id="input-cidade" class="div-curriculum form-control">
+                    </div>
+                    <div class="container">
+                        <label for="estados-brasil" class="form-label lead">Estado:</label>
+                        <select name="estados" id="estados-brasil" required class="form-select">
+                            <option  disabled selected value>Selecione seu Estado</option>
+                        </select>
+                    </div>
+                    <div class="container">
+                       <label for="" class="form-label lead">Tipo de imovel:</label>
+                        <div class="form-check">
+
+                            <input type="radio" id="tipo-casa" name="tipoImovel" value="casa" required class="form-check-input">
+                            <label for="tipo-casa" class="form-check-label">Casa</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="radio" id="tipo-apartamento" name="tipoImovel" value="apartamento" required class="form-check-input">
+                            <label for="tipo-apartamento" class="form-check-label">Apartamento</label>
+                        </div>
+                        
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <div class="container form-floating">
+                        <textarea name="resumo" id="resumo" cols="100" rows="20" maxlength="1000" required class="div-curriculum form-control"></textarea>
+                        <label for="resumo" class="form-label lead">Resumo do Curriculo</label>
+                    </div>
+                    <div class="container">
+                        <label for="input-cargo" class="form-label lead">Cargo:</label>
+                        <input type="text" name="cargo" placeholder="informe seu cargo" required maxlength="40" id="input-cargo" class="div-curriculum form-control">
+                    </div>
+                    <div class="container">
+                        <label for="input-descricao" class="form-label lead">Descricao do cargo:</label>                        
+                        <input type="text" name="cargoDescricao" required maxlength="500" id="input-descricao" class="div-curriculum form-control">
+                    </div>
+                    <div class="container">
+                        <label for="input-data" class="form-label lead">Data de Inicio:</label>
+                        <input type="text" name="dataInicio" required id="input-data" class="div-curriculum form-control">
+                    </div>
+                </fieldset>
+                <div class="container">
+                    <button type="submit" id="submit-button" class="btn btn-success">Enviar</button>
+                    <button id="clear-button" type="button" class="btn btn-danger">Limpar</button>
+                </div>
+            </div>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

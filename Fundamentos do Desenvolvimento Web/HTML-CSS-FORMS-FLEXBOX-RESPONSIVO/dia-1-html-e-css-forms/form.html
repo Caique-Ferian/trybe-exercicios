@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="form-header">
+        <h1>Formulário para cadastro de currículo</h1>
+        <p>Preencha os campos abaixo.</p>    </header>
+    <main>
+        <form action="" method="get" id="cv-form">
+            <div class="form-row">
+
+                <fieldset>
+                    <div class="line-content">
+                        <label for="input-name">Nome Completo:</label>
+                        <input type="text" name="nome" placeholder="informe seu nome completo" required maxlength="40" id="input-name" class="div-curriculum">
+                    </div>
+                    <div class="line-contet">
+                        <label for="input-email">E-mail:</label>
+                        <input type="text" name="email" placeholder="informe seu email" required maxlength="50" id="input-email" class="div-curriculum">
+                    </div>
+                    <div class="line-content">
+                        <label for="input-cpf">CPF:</label>
+                        <input type="text" name="cpf" placeholder="informe CPF" required maxlength="11" id="input-cpf" class="div-curriculum">
+                    </div>
+                    <div class="line-content">
+                        <label for="input-endereco">Endereco:</label>
+                        <input type="text" name="endereco" placeholder="informe seu endereco" required maxlength="200" id="input-endereco" class="div-curriculum"> 
+                    </div>
+                    <div class="line-content">
+                        <label for="input-cidade">Cidade:</label>
+                        <input type="text" name="cidade" placeholder="informe sua cidade" required maxlength="28" id="input-cidade" class="div-curriculum">
+                    </div>
+                    <div class="line-content">
+                        <label for="estados-brasil">Estado:</label>
+                        <select name="estados" id="estados-brasil" required>
+                            <option  disabled selected value>Selecione seu Estado</option>
+                        </select>
+                    </div>
+                    <div class="line-content">
+                       <label for="">Tipo de imovel:
+                           <label for="tipo-casa">
+                               <input type="radio" id="tipo-casa" name="tipoImovel" value="casa" required>Casa
+                            </label>
+                            <label for="tipo-apartamento">
+                                <input type="radio" id="tipo-apartamento" name="tipoImovel" value="apartamento" required>Apartamento
+                            </label>
+                        </label>
+                    </div>
+                </fieldset>
+                <fieldset>
+                    <div class="line-content ">
+                        <label for="resumo">Resumo do Curriculo:</label>
+                        <textarea name="resumo" id="resumo" cols="100" rows="20" maxlength="1000" required class="div-curriculum"></textarea>
+                    </div>
+                    <div class="line-content">
+                        <label for="input-cargo">Cargo:</label>
+                        <input type="text" name="cargo" placeholder="informe seu cargo" required maxlength="40" id="input-cargo" class="div-curriculum">
+                    </div>
+                    <div class="line-content">
+                        <label for="input-descricao">Descricao do cargo:</label>                        
+                        <input type="text" name="cargoDescricao" required maxlength="500" id="input-descricao" class="div-curriculum">
+                    </div>
+                    <div class="line-content">
+                        <label for="input-data">Data de Inicio:</label>
+                        <input type="text" name="dataInicio" required id="input-data" class="div-curriculum">
+                    </div>
+                </fieldset>
+                <button type="submit" id="submit-button">Enviar</button>
+                <button id="clear-button" type="button">Limpar</button>
+            </div>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
