@@ -1,0 +1,38 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  }
+
+h1 {
+  text-align: center;
+}
+
+.pokedex {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 10px;
+
+}
+.pokemon {
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 20px;
+  display:flex;
+  flex: 1 1 auto;
+  justify-content: space-around;
+  margin: 10px 10px;
+  width: 40%;
+}
+
+.test {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 45%;
+  width: 10%;
+}
