@@ -1,0 +1,17 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.adjusting {
+  margin-right: 145px;
+}
+
+.adjusting-2 {
+  margin-right: 15px;
+}
+
+.adjusting-3 {
+  margin-right: 90px;
+}

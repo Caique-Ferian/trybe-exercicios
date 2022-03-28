@@ -1,0 +1,48 @@
+.card-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 30px;
+}
+
+.create-card {
+  background-color: #036b52;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 10px;
+  max-height: 450px;
+  min-height: 350px;
+  width: 250px;
+  word-wrap: break-word;
+}
+
+.create-card h2 {
+  background-color: #002502;
+  border-radius: 5px;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  margin: 10px;
+  text-align: right;
+
+}
+
+.description {
+  color: white;
+  font-size: 8px;
+  margin: 10px;
+}
+
+.attributes-adjusting {
+  align-items: center;
+  background-color: white;
+  border: 1px solid gray;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  line-height: 15px;
+  margin: 10px;
+  padding-top: 30px;
+}
