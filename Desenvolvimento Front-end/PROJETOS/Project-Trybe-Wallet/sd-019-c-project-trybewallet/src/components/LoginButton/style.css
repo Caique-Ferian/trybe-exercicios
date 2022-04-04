@@ -1,0 +1,20 @@
+.button {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  font-size: 15px;
+  height: 35px;
+  width: 100%;
+}
+
+.button:disabled {
+  border: 1px solid gray;
+  color: gray;
+}
+
+.button:enabled:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}

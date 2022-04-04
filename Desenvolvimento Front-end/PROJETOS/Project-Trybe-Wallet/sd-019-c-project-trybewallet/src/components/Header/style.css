@@ -1,0 +1,21 @@
+.header-container {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 30px;
+}
+
+.header-container img {
+  width: 10%;
+}
+
+.user-container {
+  display: flex;
+}
+
+.spend-container {
+  margin-left: 40px;
+  margin-right: 5px;
+}
+

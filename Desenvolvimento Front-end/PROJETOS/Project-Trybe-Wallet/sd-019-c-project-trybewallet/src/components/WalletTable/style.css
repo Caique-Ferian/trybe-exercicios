@@ -1,0 +1,43 @@
+.table-container {
+  display: block;
+  margin: auto;
+  max-width: 1200px;
+  padding-top: 20px;
+  width: 100%;
+
+}
+
+.button-delete {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  font-size: 15px;
+  height: 35px;
+  margin-top: 10px;
+}
+
+.button-delete:hover {
+  background-color: #dc3545;
+  box-shadow: 3px 2px 5px 1px black;
+  color: white;
+  cursor: pointer;
+}
+
+.button-edit {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: black;
+  font-size: 15px;
+  height: 35px;
+  margin-right: 10px;
+
+}
+
+.button-edit:hover {
+  background-color: #ffc107;
+  box-shadow: 3px 2px 5px 1px black;
+  color: white;
+  cursor: pointer;
+}
