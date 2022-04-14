@@ -1,1 +1,3 @@
+### Projeto Front-end Online Store
+
 Projeto em Grupo feito com uso de React. Neste projeto fizemos requisição à API do Mercado Livre, e através do seu Json montamos componentes que possibilita ao usuário filtrar os itens exibidos no site pelas categorias que vem da API, possiblita ver os detalhes do produto redirecionando através do React Router para página de detalhes, lhe permite também adicionar produtos ao carrinho e removê-los (feito com auxilio de Local Storage para evitar Prop Driling e através do Router o usuário consegue ver a página de carrinho) e por faz uma simulação de pagamento como em uma página real.
