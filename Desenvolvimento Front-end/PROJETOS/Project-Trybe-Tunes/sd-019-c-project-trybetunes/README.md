@@ -1,1 +1,3 @@
+# Projeto Trybe Tunes
+
 Projeto feito com React, em que foi introduzido o React Router e utilizamos para redirecionar o usuário para outras páginas, aprofundamos e componentes controlados e apredemos a fazer requisições a API's através de requisições para uma API fornecida pela Trybe que informa uma lista de músicas de um determinado artista. O projeto em si trata-se da criação de uma aplicação que simula um iTunes ou Spotify, onde o usuário pesquisa um artista e recebe sua lista de álbums, com isso consegue escolher um álbum, ouvir suas músicas e favoritar as preferidas além de poder editar o perfil como desejar. 
