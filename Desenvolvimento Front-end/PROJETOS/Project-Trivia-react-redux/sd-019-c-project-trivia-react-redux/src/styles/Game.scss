@@ -1,0 +1,14 @@
+.game-container {
+  align-items: center;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+}
+
+.correct-answer {
+  border: 3px solid rgb(6, 240, 15);
+}
+
+.incorrect-answer {
+  border: 3px solid rgb(255, 0, 0);
+}

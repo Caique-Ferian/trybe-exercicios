@@ -1,0 +1,28 @@
+
+header {
+  align-items: center;
+  background-color: #222;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  width: 100vw;
+
+  .div-1, .div-2 {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    width: 45vw;
+    .icon-profile {
+      border-radius: 8px;
+      width: 60px;
+    }
+  }
+  .trivia-img {
+    width: 220px;
+    &:hover {
+      animation-delay: 1s;
+      transform: scale(1.2);
+    }
+  }
+  }
