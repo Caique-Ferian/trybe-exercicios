@@ -1,9 +1,3 @@
-# Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!
+# Projeto Stranger Things BackEnd
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de frontend.
-
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
-
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do frontend.
-
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-020-stranger-things) em que os requisitos do projeto são destrinchados.
+Projeto individual feito com Heroku. Neste projeto editamos alguns elementos de uma aplicação em React, para permitir receber parâmetros via variáveis de ambiente e fazer requisição Fetch nas URLS https respectivas do banco de dados criado via Heroku, para criar uma tabela com as pessoas de Hawkins e do mundo invertido(Ao clicar no botão realiza requisição para rota UPSIDOWN e retorna os valores da tabela invertidos). Realizou-se o deploy Heroku do app em duas URLS heroku diferentes https://caique-ft.herokuapp.com/ (Site que possui um elemento P que diz que site está em desenvolvimento) e 'https://caique-pd.herokuapp.com/' (Site pronto) para assim simular um ambiente de trabalho onde o site pronto fica em uma rota e o em desenvolvimento para ser atualizado ou corrigir bugs e erros ficaria em outra rota não  divulgável ao consumidor. Através de um Dockerfile utilizando a Stack container(stack Heroku que cria a aplicação em um container Docker) com buildpack mars/create-react-app, permitindo assim criar um site em React acessível via http.
