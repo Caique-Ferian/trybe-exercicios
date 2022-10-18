@@ -1,0 +1,99 @@
+use('cinema');
+
+//EXERCISE 1
+// db.movies.find({ category:{ $all: ['action','adventure'] } });
+
+//EXERCISE 2
+// db.movies.find({ category:{ $all: ['action','sci-fi'] },  imdbRating: { $gt: 7 } });
+// db.movies.find({ 
+//     $and: [
+//         { category: { $all: ['action','sci-fi'] } },
+//         { imdbRating: { $gt: 7 } }
+//         ],
+//     });
+
+//EXERCISE 3
+// db.movies.find(
+//     { ratings: { $elemMatch: { $gt: 103 } } },
+//     { _id:0, title:1, ratings:1 }
+// );
+
+//EXERCISE 4
+// db.movies.find(
+//     { ratings: { $elemMatch: { $gte: 100, $lte: 105 } } },
+//     { _id:0, title:1, ratings:1 }
+// );
+
+//EXERCISE 5
+// db.movies.find(
+//     { ratings: { $elemMatch: { $gt: 64, $lte: 105, $mod: [9,0] } } },
+//     { _id:0, title:1, ratings:1 }
+// );
+
+//EXERCISE 6
+// db.movies.find(
+//     { category: { $all: ['adventure'] }, ratings: { $elemMatch: { $gt: 103 } } },
+//     { _id: 0, title: 1, ratings: 1, category: 1 },
+// );
+
+
+// db.movies.find(
+//     { category: { $elemMatch: { $eq: 'adventure' } }, ratings: { $elemMatch: { $gt: 103 } } },
+//     { _id: 0, title: 1, ratings: 1, category: 1 },
+// );
+
+//EXERCISE 7
+// db.movies.find(
+//     { category: { $size: 2 } },
+//     { _id: 0, title: 1 },
+// );
+
+//EXERCISE 8
+// db.movies.find(
+//     { ratings: { $size: 4 } },
+//     { _id: 0, title: 1 },
+// );
+
+//EXERCISE 9
+// db.movies.find(
+//     { budget: { $mod: [5,0] }, category: { $size:2 } },
+// );
+
+// db.movies.find({
+//     $and: [
+//         { budget: { $mod: [5,0] } }, 
+//         { category: { $size:2 } },
+//         ],
+//     });
+
+//EXERCISE 10
+// db.movies.find({
+//     $or: [
+//         { category: { $all: ['sci-fi'] } },
+//         { ratings: { $elemMatch: { $gt: 199 } } },
+//         ],
+// }, { _id: 0, title: 1, ratings: 1, category: 1 });
+
+//EXERCISE 11
+
+// db.movies.find({ 
+//     ratings: { $size: 4 },
+//     category: { $in: ['adventure','family'] },
+//     imdbRating: { $gte: 7 } 
+// });
+
+// db.movies.find({
+//     $and: [
+//         { ratings: { $size: 4 } },
+//         { category: { $in: ['adventure','family'] } },
+//         { imdbRating: { $gte: 7 } }
+//         ],
+// });
+
+//EXERCISE 12
+
+// db.movies.find({ description: { $regex: /^The/ } });
+
+//EXERCISE 13
+
+// db.movies.find({ description: { $regex: /humanity.$/ } });

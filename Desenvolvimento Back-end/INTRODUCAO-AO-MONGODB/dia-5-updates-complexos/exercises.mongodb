@@ -1,0 +1,82 @@
+use("cinema");
+db.movies.find({},{_id:0});
+
+//EXERCISE 1 
+// db.movies.updateOne({ title: "Batman" },{ $push: { category: "superhero" } });
+
+//EXERCISE 2
+// db.movies.updateOne({ title: "Batman" },{ $push: { category: { $each: ["villain","comic-based"] } } });
+
+//EXERCISE 3
+// db.movies.updateOne({ title: "Batman" },{ $pop: { category: -1 } });
+
+//EXERCISE 4
+// db.movies.updateOne({ title: "Batman" },{ $pull: { category: "adventure" } });
+
+//EXERCISE 5
+// db.movies.updateOne({ title: "Batman" },{ $pop: { category: 1 } });
+
+// EXERCISE 6
+// db.movies.updateOne({ title: "Batman" },{ $addToSet: { category: "action" } });
+
+//EXERCISE 7
+// db.movies.updateMany({ title: {$in: ["Batman", "Home Alone"]} },{ $push: { category: "90's" } })
+
+//EXERCISE 8
+// db.movies.updateOne({ title: "Home Alone"}, { 
+// $set: {
+//     cast: [{
+//         "actor": "Macaulay Culkin",
+//         "character": "Kevin"
+//         },
+//         {
+//         "actor": "Joe Pesci",
+//         "character": "Harry"
+//         },
+//         {
+//         "actor": "Daniel Stern"
+//         },
+//     ],
+//  }
+// });
+
+//EXERCISE 9
+// db.movies.updateOne(
+//     { cast: { $elemMatch: { actor: "Daniel Stern" } } },
+//     { $set: { "cast.$.character": "Marv" } },
+// );
+
+//EXERCISE 10
+// db.movies.updateOne({ title: "Batman"}, { 
+// $set: {
+//     cast: [{
+//         "character": "Batman"
+//         },
+//         {
+//         "character": "Alfred"
+//         },
+//         {
+//         "character": "Coringa"
+//         },
+//     ],
+//  }
+// });
+
+//EXERCISE 11
+// db.movies.updateOne(
+//     { cast: { $elemMatch: { character: "Batman" } } },
+//     { $set: { "cast.$.actor": ["Christian Bale"] } },
+// );
+// db.movies.updateOne(
+//     { cast: { $elemMatch: { character: "Alfred" } } },
+//     { $set: { "cast.$.actor": ["Michael Caine"] } },
+// );
+// db.movies.updateOne(
+//     { cast: { $elemMatch: { character: "Coringa" } } },
+//     { $set: { "cast.$.actor": ["Heath Ledger"] } },
+// );
+
+// db.movies.updateOne(
+//     { cast: { $elemMatch: { character: "Batman" } } },
+//     { $push: { "cast.$.actor": { $each: ["Michael Keaton","Val Kilmer","George Clooney"] } } },
+// );

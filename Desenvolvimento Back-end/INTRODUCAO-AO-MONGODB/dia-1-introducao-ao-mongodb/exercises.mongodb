@@ -1,0 +1,45 @@
+use('mongo-exercise');
+
+// EXERCISE 1
+
+// db.bios.find({"_id":8});
+
+// EXERCISE 2
+
+// db.bios.find({"_id":8},{"name":true});
+
+// EXERCISE 3
+
+// db.bios.find({"_id":8},{"_id":false,"name":true,"birth":true});
+
+// EXERCISE 4
+
+// db.bios.find({"name.first":"John"}).pretty();
+
+// EXERCISE 5
+
+// db.bios.find().limit(3);
+
+// EXERCISE 6
+
+// db.bios.find().limit(2).skip(5);
+
+// EXERCISE 7
+// COMANDO TERMINAL PARA MONGOIMPORT VIA DOCKER: docker cp books.json trybe-mongo:/tmp/books.json => Copia o arquivo para o caminho /tmp do container.
+// docker exec trybe-mongo mongoimport -d mongo-exercise -c books --file /tmp/books.json => Executa o container realizando o mongoimport passando o banco de dados
+// nome da coleção e o caminho para o arquivo.
+
+// db.books.countDocuments();
+
+//EXERCISE 8
+
+// db.books.countDocuments({"status":"PUBLISH"});
+
+//EXERCISE 9
+
+// db.books.find({},{"_id":0,"title":1,"isbn":1,"pageCount":1}).limit(3);
+
+//EXERCISE 10
+
+// db.books.find({"status":"MEAP"},{"title":1,"authors":1,"status":1}).limit(10).skip(5);
+
