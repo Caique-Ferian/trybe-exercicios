@@ -1,0 +1,13 @@
+.ordersPage {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  width: 100%;
+}
+
+.contentPage {
+  padding: 70px 40px;
+}

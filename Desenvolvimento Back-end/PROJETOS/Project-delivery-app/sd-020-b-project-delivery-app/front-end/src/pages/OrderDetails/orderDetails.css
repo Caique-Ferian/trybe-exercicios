@@ -1,0 +1,10 @@
+.orderDetailsPage {
+  background-color: white;
+  height: 100vh;
+  margin: 0;
+  width: 100%;
+}
+
+.contentPage {
+  padding: 70px 40px;
+}

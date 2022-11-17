@@ -1,0 +1,54 @@
+.order {
+  background: #eaf1ef;
+  border: 1px solid #b1c2be;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: black;
+  display: flex;
+  height: 245px;
+  margin: 20px;
+  padding: 2px;
+  text-decoration: none;
+  width: 790px;
+}
+
+.orderId {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 245px;
+  justify-content: center;
+  width: 170px;
+}
+
+.statusDate {
+  display: flex;
+  height: 200px;
+}
+
+.status {
+  align-items: center;
+  background-color: #6c0;
+  display: flex;
+  flex-direction: column;
+  font-size: 35px;
+  justify-content: center;
+  margin: 20px;
+  width: 400px;
+}
+
+.datePrice {
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  justify-content: space-evenly;
+  width: 170px;
+}
+
+.card-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+
+}

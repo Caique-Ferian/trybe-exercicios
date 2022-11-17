@@ -1,0 +1,27 @@
+.loginPage {
+  align-items: center;
+  background-color: #3665ad;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  width: 20vw;
+}
+
+.loginform {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  width: 100vw;
+}
+
+.login__login_input {
+  margin-bottom: 10px;
+}
+
+.loginbutton {
+  color: aliceblue;
+}

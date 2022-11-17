@@ -1,0 +1,32 @@
+.productsList {
+  background-color: aliceblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 70px 0;
+}
+
+.cartWidget {
+  bottom: 10px;
+  position: fixed;
+  right: 10px;
+  z-index: 1;
+}
+
+.cartBtn {
+  background-color: #036b52;
+  border: none;
+  border-radius: 6px;
+  color: #f2fffc;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 800;
+  height: 50px;
+  text-decoration: none;
+  width: 250px;
+}
+
+.page {
+  height: 100vh;
+  margin: 0;
+}

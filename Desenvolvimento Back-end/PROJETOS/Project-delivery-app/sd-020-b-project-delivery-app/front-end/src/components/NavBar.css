@@ -1,0 +1,65 @@
+:root {
+
+  --my-height: 70px;
+}
+
+nav {
+  align-items: center;
+  display: flex;
+  font-weight: 800;
+  height: var(--my-height);
+  justify-content: space-between;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 1;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 800;
+  height: inherit;
+  text-decoration: none;
+}
+
+.nav-cart {
+  background-color: #036b52;
+  color: #f2fffc;
+  height: inherit;
+  width: 50%;
+}
+
+.nav-logout {
+  background-color: #056cf9;
+  color: #f2fffc;
+  height: inherit;
+  text-align: center;
+  width: 10%;
+}
+
+.nav-products {
+  background-color: #2fc18c;
+  color: #001813;
+  height: inherit;
+  text-align: center;
+  width: 20%;
+}
+
+.nav-user {
+  background-color: #421981;
+  color: #f2fffc;
+  height: inherit;
+  text-align: center;
+  width: 20%;
+}
+
+.nav-user p {
+  height: inherit;
+  line-height: var(--my-height);
+  margin: auto;
+}
