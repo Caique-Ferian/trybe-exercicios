@@ -1,0 +1,3 @@
+# Projeto Job Insights
+
+Projeto individual feito com Python visando reiteirar os comandos de leituras de arquivos em python. Tal projeto teve o intuito de reforçar o básico da linguagem junto de leitura de arquivos com o WITH OPEN utilizando arquivos CSV, com suas respectivas libs de leitura que vem junto da linguagem. Através da leitura foi- se filtrando os tipos de emprego com list comprehensions simulando um usuário que acessa um site de procura de emprego, permetindo filtrar por salário, tipo, etc. Além disso neste projeto criamos testes simples com pytest para testar algumas funções já implementadas.

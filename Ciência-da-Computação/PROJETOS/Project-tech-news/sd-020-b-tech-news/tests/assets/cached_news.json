@@ -1,0 +1,461 @@
+[
+    {
+        "url": "https://blog.betrybe.com/carreira/oratoria/",
+        "title": "Oratória: passo a passo para falar bem e se destacar!",
+        "writer": "Lucas Custódio",
+        "summary": "Sabemos que a arte de contar histórias surge de tempos imemoriais, com seres humanos carregando a habilidade de transmitir informações por meio da linguagem em sua essência. No entanto, o que podemos não saber é que a arte de usar a linguagem para construir discursos polidos e impactantes também não é de hoje. Tanto os diálogos do filósofo Platão quanto os discursos excepcionais de Cícero na Roma Antiga utilizavam uma técnica milenar para encantar audiências: a oratória.",
+        "comments_count": 0,
+        "timestamp": "08/07/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/orkut-voltou-o-que-se-sabe-ate-agora-sobre-o-retorno/",
+        "title": "Orkut voltou: o que se sabe até agora sobre o retorno da rede",
+        "writer": "Allan Camilo",
+        "summary": "Em meados de abril deste ano, o domínio do Orkut foi reativado. O site, que para muitos brasileiros foi o primeiro contato com uma rede social, “retornou” 8 anos após ser desativado. Porém, seu sucessor espiritual ainda está para ser lançado. Entenda a seguir se o Orkut realmente voltou à ativa.",
+        "comments_count": 0,
+        "timestamp": "08/07/2022",
+        "tags": [
+            "Destaques"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/dungleon-como-jogar/",
+        "title": "Dungleon: como jogar o game que mistura RPG e Wordle [2022]",
+        "writer": "Allan Camilo",
+        "summary": "Cópias e spin-offs de jogos populares não são novidade. Derivados dos aplicativos Temple Run e Flappy Bird já fazem parte da cultura pop. Com o boom repentino de Wordle, onde deve-se inserir letras e descobrir a palavra do dia, gêneros diferentes de jogos se misturaram à jogabilidade tradicional. É assim que surgiu Dungleon, game que mistura RPGs e Wordle. A seguir, saiba tudo sobre ele.",
+        "comments_count": 0,
+        "timestamp": "07/07/2022",
+        "tags": [],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/linguagem-de-programacao/linguagem-lua/",
+        "title": "Linguagem Lua: o que é, quais os princípios e como usar?",
+        "writer": "Lucas Marchiori",
+        "summary": "As linguagens de programação existentes, como PHP, Java e C#, geralmente são desenvolvidas por pessoas estrangeiras. Contudo, a linguagem Lua é considerada brasileira, criada nos laboratórios de uma faculdade carioca e pensada principalmente para o desenvolvimento de jogos.",
+        "comments_count": 0,
+        "timestamp": "06/07/2022",
+        "tags": [],
+        "category": "Linguagem de Programação"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/livros-sobre-lideranca/",
+        "title": "Os 20 livros sobre liderança para líderes de sucesso!",
+        "writer": "Lucas Custódio",
+        "summary": "Muitas pessoas desejam saber qual é o segredo para uma liderança de sucesso. O que poucas sabem é que não existe uma fórmula mágica que funcionará em todo cenário, em todo contexto, todas as vezes. No entanto, diversas pessoas líderes experientes e bem sucedidas já compartilharam suas experiências, contando o que funcionou e o que não foi tão efetivo, poupando um valioso tempo para quem está chegando agora. E onde elas estão? Em livros sobre liderança!",
+        "comments_count": 0,
+        "timestamp": "04/07/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/meta-passara-a-contratar-menos-engenheiros-entenda/",
+        "title": "Meta passará a contratar menos engenheiros; entenda",
+        "writer": "Allan Camilo",
+        "summary": "No mês de fevereiro, as ações da Meta despencaram, junto a outras Big Techs do mercado. Nestes próximos meses, haverá uma reforma considerável que, aparentemente, é uma resposta direta à queda: empresa está reduzindo a contratação de engenheiros em 30%, de acordo com um relatório da Reuters.",
+        "comments_count": 0,
+        "timestamp": "01/07/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/o-que-e-pj/",
+        "title": "O que é PJ: O guia completo sobre a Pessoa Jurídica!",
+        "writer": "Lucas Custódio",
+        "summary": "Podemos apostar que alguma vez você deve ter se deparado com alguma vaga de emprego interessante e, na descrição, estava escrito que a forma de contratação seria PJ. Cada vez mais as empresas têm achado interessante esse vínculo trabalhista, uma vez que ele pode evitar uma série de burocracias.",
+        "comments_count": 0,
+        "timestamp": "01/07/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/chatbots-entenda-os-problemas-de-relacionamentos-com-maquinas/",
+        "title": "Chatbots: Entenda os problemas de relacionamentos com máquinas",
+        "writer": "Allan Camilo",
+        "summary": "A empresa Replika, cuja sede fica na Califórnia (EUA), proporciona a seus clientes um chatbot criado especificamente para fazer companhia. Como contam neste curta documental do YouTube, os laços emocionais são criados a partir dessas interações, com o fator de “entretenimento” ganhando uma nova camada de intimidade.",
+        "comments_count": 0,
+        "timestamp": "30/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/resurgence-mmo-ganha-prologo-confira/",
+        "title": "Resurgence: MMO da web3 ganha prólogo; confira",
+        "writer": "Allan Camilo",
+        "summary": "Seguindo a volta de popularidade em jogos NFT e no mercado web3, os estúdios da Emergent Games acabam de lançar The End, prólogo que levará ao lançamento do futuro game Resurgence, game de ficção científica baseado em blockchain.",
+        "comments_count": 0,
+        "timestamp": "29/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/tecnologia/extensao-de-arquivo/",
+        "title": "O que é extensão de arquivo e quais as mais usadas?",
+        "writer": "Cairo Noleto",
+        "summary": "A extensão de arquivo é necessária para diferenciar os formatos e funções de arquivos em seu computador. Cada uma delas apresenta características diferentes, bem como funcionalidades. Sendo assim, é preciso que cada uma delas possua um programa que consiga reproduzir o conteúdo ali contido.",
+        "comments_count": 0,
+        "timestamp": "29/06/2022",
+        "tags": [],
+        "category": "Tecnologia"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/axie-infinity-reabre-transacoes-apos-perder-bilhoes/",
+        "title": "Axie Infinity reabre transações após perder R$3 bilhões",
+        "writer": "Allan Camilo",
+        "summary": "Seja pelo sucesso ou pelo fracasso, Axie Infinity deu o que falar desde o ano passado, com a enorme quantia de dinheiro movimentada no mercado de NFTs. Agora, o grupo Sky Mavis (que cuida da marca) anunciou que os jogadores poderão voltar a usar a plataforma dedicada para realizar depósitos e saques.",
+        "comments_count": 0,
+        "timestamp": "28/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/o-futuro-do-iphone-depende-destas-tecnologias/",
+        "title": "O futuro do iPhone depende destas 5 tecnologias",
+        "writer": "Allan Camilo",
+        "summary": "Na próxima quarta-feira (29), o iPhone faz 15 anos. A tela do primeiro modelo tinha apenas 3,5 polegadas e ele possuia uma câmera de sensor único, com 2 megapixels. Hoje, o maior e mais recente iPhone (13 Pro Max) possui uma tela duas vezes maior e uma câmera com trio de sensores de 12 megapixels.",
+        "comments_count": 0,
+        "timestamp": "27/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/feedback-negativo-como-fazer/",
+        "title": "Feedback negativo: como fazer efetivamente sem criticar!",
+        "writer": "Lucas Custódio",
+        "summary": "Feedbacks são ferramentas importantes dentro de diversos contextos, essencialmente no organizacional. Dentre os mais variados tipos, o feedback negativo auxilia na contenção de danos e no monitoramento de mudanças que necessitam ser realizadas. No entanto, de todos os tipos de feedback, esse é um dos mais complicados de se fazer pois, se não feito corretamente, ele pode ser interpretado como crítica.",
+        "comments_count": 0,
+        "timestamp": "27/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/feedback-positivo-como-fazer/",
+        "title": "Feedback positivo: 20 exemplos de como fazer da forma correta",
+        "writer": "Lucas Custódio",
+        "summary": "A cultura de feedbacks nas empresas é fundamental. No entanto, por uma associação errônea de feedback com crítica, muitas vezes acredita-se que o feedback deve ser utilizado somente como ferramenta para corrigir ou arrumar algo que não está adequado. Com isso, acabamos nos esquecendo do tão necessário feedback positivo.",
+        "comments_count": 0,
+        "timestamp": "25/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/meta-aposta-em-audio-espacial-para-experiencias-de-vr-e-ar/",
+        "title": "Meta aposta em áudio espacial para experiências de VR e AR",
+        "writer": "Allan Camilo",
+        "summary": "Experiências em realidade virtual são somente parte do que promete o metaverso da Meta. Junto ao visual, o áudio espacial é outro pilar importante para transportar interessados em novos ambientes sociais. Como conta o CEO Mark Zuckerberg em publicação no blog da empresa, uma “noção realista de onde vem o som faz você sentir que realmente está lá.”",
+        "comments_count": 0,
+        "timestamp": "24/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/microsoft-edge-ganha-atualizacao-gamer-confira-as-novidades/",
+        "title": "Microsoft Edge ganha atualização gamer; confira as novidades",
+        "writer": "Allan Camilo",
+        "summary": "Três anos após o lançamento do Opera GX, navegador dedicado a gamers, a Microsoft viu seu espaço no mercado e decidiu atualizar o Edge com novos recursos. Dentre as principais novidades, há um feed de jogos, nitidez gráfica maior para os jogos em cloud e jogos online casuais.",
+        "comments_count": 0,
+        "timestamp": "23/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/conheca-o-software-low-code-que-conseguiu-investimentos-de-milhoes/",
+        "title": "Conheça o software low-code que conseguiu investimentos de R$211 milhões",
+        "writer": "Allan Camilo",
+        "summary": "Appsmith, um dos primeiros casos de sucesso de um software low-code, vem conquistado desenvolvedores por ajudá-los a criar ferramentas de diversos tipos. Ele traz consigo uma série de modelos pré-programados que podem ser clonados e modificados conforme a preferência do desenvolvedor, acelerando o processo da criação de um aplicativo.",
+        "comments_count": 0,
+        "timestamp": "22/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/tecnologia/arquivo-bin/",
+        "title": "Arquivo BIN: o que é, como abrir e converter?",
+        "writer": "Cairo Noleto",
+        "summary": "Desde o surgimento do computador e seus respectivos softwares, em vários momentos nós já realizamos várias instalações de softwares para fins diversos, desde sistema operacional até videogames. Esse processo ocorre utilizando um arquivo BIN, que contém a cópia exata da base original do software, porém numa versão mais compacta e ocupando menos espaço de disco.",
+        "comments_count": 0,
+        "timestamp": "22/06/2022",
+        "tags": [],
+        "category": "Tecnologia"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/inteligencia-artificial-da-nvidia-transforma-objetos-em-tres-dimensoes/",
+        "title": "Inteligência artificial da NVIDIA transforma objetos 2D em 3D",
+        "writer": "Allan Camilo",
+        "summary": "Softwares de modelagem 3D têm como uma de suas ferramentas principais a possibilidade de transformar objetos bidimensionais em tridimensionais. Plug-ins e add-ons adiantam o trabalho de artistas, criadores e desenvolvedores de jogos, mas boa parte do tempo ainda é dedicada a aprender usar o tal software.",
+        "comments_count": 0,
+        "timestamp": "21/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/conheca-landvault-ponte-entre-as-marcas-e-o-metaverso/",
+        "title": "Conheça LandVault, ponte entre as marcas e o metaverso",
+        "writer": "Allan Camilo",
+        "summary": "Fundada em 2021, a LandVault é a maior construtora de metaversos (como The Sandbox e Decentraland), crescendo de 5 para 100 construtores em menos de seis meses. O grande passo tomado nesta última semana é que haverá uma fusão com a Admix, à medida que vemos a transformação em Web3.",
+        "comments_count": 0,
+        "timestamp": "20/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/frases-de-lideranca/",
+        "title": "Frases de liderança: As 40 mais impactantes para inspirar!",
+        "writer": "Lucas Custódio",
+        "summary": "Quando estamos abrindo uma empresa, nos preparando para assumir um cargo de liderança ou até mesmo já nessa área há algum tempo, é comum precisarmos de um pouco de inspiração. O lado bom de estarmos em uma sociedade interconectada é que diversas pessoas já passaram pela mesma situação e deixaram sua experiência para contar história. É por isso que as frases de liderança carregam tanta sabedoria, afinal, é a vida, trabalho e experiência de outras pessoas sendo contadas.",
+        "comments_count": 0,
+        "timestamp": "20/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/storyteller-o-que-faz/",
+        "title": "Storyteller: o que faz a figura que conta  histórias [5 exemplos]",
+        "writer": "Lucas Custódio",
+        "summary": "Todo mundo tem a capacidade de contar histórias. Quando estamos reunidos com as pessoas que gostamos, seja em casa, na mesa de um bar ou em qualquer outro espaço, dificilmente não haverá uma história ou anedota sendo contada. Logo, contar histórias faz parte do nosso cotidiano e da nossa essência. Porém, quando aplicado a um contexto de Storytelling, será que isso é suficiente para tornar-se Storyteller?",
+        "comments_count": 0,
+        "timestamp": "17/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/pesquisa-indica-haver-falso-senso-de-seguranca-em-apis/",
+        "title": "Pesquisa indica haver ‘falso senso de segurança’ em APIs",
+        "writer": "Allan Camilo",
+        "summary": "De acordo com um relatório recente da Radware, provedor de cibersegurança líder no mercado, as empresas têm um ”falso senso de segurança“ em relação a APIs. Este relatório nada mais é que um compilado de informações de organizações globais (EUA, Europa, África, Ásia e Oceania), sob nome de State of API Security.",
+        "comments_count": 0,
+        "timestamp": "17/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/indicadores-de-esg-funcionam-em-somente-algumas-empresas/",
+        "title": "Indicadores de ESG funcionam em somente 30% das empresas",
+        "writer": "Allan Camilo",
+        "summary": "As pautas de ESG (Environmental, Social and Governance, em inglês) são os maiores indicativos da responsabilidade sustentável do meio corporativo, tornando-se recentemente um termômetro para indicar o potencial crescimento de startups e de companhias de grande escala, como a Fiagro. Porém, nem todas as empresas seguem estas diretrizes.",
+        "comments_count": 0,
+        "timestamp": "17/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Carreira"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/bill-gates-e-cetico-sobre-criptomoedas-e-nfts-entenda-o-motivo/",
+        "title": "Bill Gates é cético sobre criptomoedas e NFTs; entenda o motivo",
+        "writer": "Allan Camilo",
+        "summary": "Desde o ano passado, Bill Gates dá declarações espinhosas sobre a febre das criptomoedas. No final de 2021, houve bastante prejuízo ao mercado, seja pela queda do Bitcoin e do Ethereum, ou até por conta de invasores. “Se você tem menos dinheiro que Elon Musk, é melhor ter cuidado”, disse ele em entrevista ao Bloomberg.",
+        "comments_count": 0,
+        "timestamp": "15/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/tecnologia/erro-500-como-resolver-2/",
+        "title": "Erro 503: o que é, quais as causas e como corrigi-lo?",
+        "writer": "Lucas Marchiori",
+        "summary": "Atualmente, é comum que usuários ou usuárias utilizem seus computadores para realizar tarefas simples, como compras online, por exemplo. Porém, há vezes que algumas mensagens de erro aparecem em seu navegador, impedindo que você faça o que necessita. Assim, será abordado neste artigo o erro 503, para você ter mais conhecimento sobre ele e saber solucioná-lo quando ocorrer.",
+        "comments_count": 0,
+        "timestamp": "15/06/2022",
+        "tags": [],
+        "category": "Tecnologia"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/conheca-wildcard-o-jogo-que-ja-arrecadou-milhoes/",
+        "title": "Conheça o jogo na Web3 que já arrecadou R$ 235 milhões",
+        "writer": "Allan Camilo",
+        "summary": "O declínio do mercado Web3 (também chamada de web 3.0), especialmente quando tratamos de jogos NFT, tem dado margem a novos empreendimentos na tentativa de conquistar empreendedores, como aconteceu em 2021. Desta vez, há um case de sucesso a ser analisado: The Wildcard Alliance, da Playful Studios.",
+        "comments_count": 0,
+        "timestamp": "14/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/empowerment-lideranca-o-que-e/",
+        "title": "Empowerment: o que é e como aplicar na liderança!",
+        "writer": "Lucas Custódio",
+        "summary": "Durante anos, pessoas especialistas buscaram e experimentaram diversas teorias, técnicas e ferramentas dentro de empresas com o intuito de melhorar as condições de trabalho, aumentar a motivação e, consequentemente, a produtividade. Grande parte dessas metodologias se encontram relacionadas à liderança, afinal, já mais do que comprovado que uma liderança eficaz é um dos principais fatores que faz com que um negócio prospere. Uma das estratégias muito utilizadas pela liderança é o empowerment.",
+        "comments_count": 0,
+        "timestamp": "14/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/spotify-adquire-plataforma-capaz-de-simular-vozes/",
+        "title": "Spotify adquire plataforma capaz de simular vozes",
+        "writer": "Allan Camilo",
+        "summary": "A tecnologia text to speech, que consiste na produção de uma voz a partir de texto, já teve seu tempo de dominar a internet. O exemplo mais famoso está nas redes sociais, como as vozes (em diversos idiomas) de “narração” geradas pelo TikTok.",
+        "comments_count": 0,
+        "timestamp": "13/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/mit-descobre-que-chips-da-apple-tem-esta-grande-falha/",
+        "title": "MIT descobre que chips M1 da Apple têm esta grande falha",
+        "writer": "Allan Camilo",
+        "summary": "Desde 2020, quando a Apple introduziu ao mundo os potentes chips M1, uma nova era de processadores firmou o distanciamento da “parceira” Intel. De lá para cá, os substitutos tomaram conta dos novos dispositivos. Acontece que, de acordo com pesquisadores do Instituto de Tecnologia de Massachusetts (MIT), o M1 traz uma grande vulnerabilidade de hardware.",
+        "comments_count": 0,
+        "timestamp": "10/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/entenda-como-axie-infinity-contribuiu-para-a-ruina-do-jogos-nft/",
+        "title": "Entenda como Axie Infinity contribuiu para a ruína do jogos NFT",
+        "writer": "Allan Camilo",
+        "summary": "Seguindo o modelo “pay to earn”, os jogos NFT dominaram o mercado desde a alta das criptomoedas e de investimentos similares ao longo de 2021. Por referência, no final do ano passado houve a estimativa de lucro de R$ 13 bilhões em apenas 3 meses. O principal título? Axie Infinity, uma startup baseada em NFTs.",
+        "comments_count": 0,
+        "timestamp": "10/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/curriculo-para-primeiro-emprego/",
+        "title": "Como fazer currículo para primeiro emprego?",
+        "writer": "Lucas Custódio",
+        "summary": "Uma das grandes angústias de quem tenta se inserir no mercado de trabalho é lidar com o fato de que é necessário fazer um currículo. A maior razão para isso é que pode ser um enorme desafio criar um currículo que seja efetivo e consiga uma entrevista de emprego quando se tem pouca ou nenhuma experiência profissional. Logo, como fazer um currículo para primeiro emprego que consiga impressionar as pessoas que estão recrutando?",
+        "comments_count": 0,
+        "timestamp": "10/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/mark-zuckerberg-mostra-novo-metaverso-criado-por-usuarios/",
+        "title": "Mark Zuckerberg mostra “novo” metaverso criado por usuários",
+        "writer": "Allan Camilo",
+        "summary": "Desde que Mark Zuckerberg mudou o nome do Facebook para Meta, em outubro do ano passado, a companhia tem investido tempo (e dinheiro) no tal metaverso. Horizon Worlds, a plataforma de interações sociais recém-lançada por eles, foi capaz de exibir o potencial da realidade virtual criada pelos usuários, mas esta abordagem não parou por aí.",
+        "comments_count": 0,
+        "timestamp": "08/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/tecnologia/software-o-que-e/",
+        "title": "O que é software? O guia completo e fácil de aprender!",
+        "writer": "Lucas Marchiori",
+        "summary": "Em nosso cotidiano existem diversas tarefas para serem realizadas, como transferências bancárias, emissão de notas fiscais — entre outras — que anteriormente tomavam bastante também. Atualmente, esses processos são simplificados pela presença de um software, que possui várias regras para comandos que o usuário ou usuária possa executar nele.",
+        "comments_count": 0,
+        "timestamp": "08/06/2022",
+        "tags": [],
+        "category": "Tecnologia"
+    },
+    {
+        "url": "https://blog.betrybe.com/noticias/como-jogar-a-nova-temporada-de-fortnite-sem-download/",
+        "title": "Como jogar a nova temporada de Fortnite sem download",
+        "writer": "Allan Camilo",
+        "summary": "A terceira temporada do Capítulo 3 de Fortnite foi ao ar no último domingo (05), com novos itens, armas, um mapa remodelado e skins de Indiana Jones e Darth Vader. Como de costume, a temporada também traz um novo público interessado, somado ao modo Zero Construção, que resgata a jogabilidade tradicional dos Battle Royales. Porém, você precisa de pelo menos 35GB disponíveis, caso queira baixar o jogo gratuitamente pelo launcher da Epic Games.",
+        "comments_count": 0,
+        "timestamp": "07/06/2022",
+        "tags": [
+            "Destaques",
+            "Notícias - Tecnologia"
+        ],
+        "category": "Notícias"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/fazer-curriculo-no-word-em-pdf/",
+        "title": "Como fazer currículo no Word em PDF [Guia prático!]",
+        "writer": "Lucas Custódio",
+        "summary": "Uma das ferramentas mais tradicionais e completas para fazer um currículo é o editor de texto. Um editor de texto disponibiliza uma página em branco virtual para que você possa inserir caracteres e construir textos, dando a opção de formatá-los como bem entender. O mais famoso dos editores de texto é o Word Office, desenvolvido pela Microsoft, cujo nome acabou sendo utilizado para nomear toda uma grande variedade de outros editores. Sendo assim, neste guia, aprenderemos como fazer um currículo no Word e em outros editores semelhantes, que cumprem com a mesma função.",
+        "comments_count": 0,
+        "timestamp": "06/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/roupas-para-entrevista-de-emprego/",
+        "title": "Roupas para entrevista de emprego: como se vestir para impressionar!",
+        "writer": "Lucas Custódio",
+        "summary": "Chegou o grande dia: a tão esperada entrevista de emprego. Você acorda, abre a porta do guarda roupa e pensa: E agora? O que devo vestir? Situações assim demonstram o quão difícil e importante pode ser selecionar roupas para entrevista de emprego.",
+        "comments_count": 0,
+        "timestamp": "03/06/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/linguagem-de-programacao/linguagem-de-programacao-tudo-sobre/",
+        "title": "Linguagem de programação: quais os tipos e as 19 principais?",
+        "writer": "Cairo Noleto",
+        "summary": "A linguagem de programação está por trás de vários sistemas e programas que utilizamos no dia a dia. Dependendo do software, cada tipo de linguagem oferece melhores soluções para a escrita do código e a experiência do usuário.",
+        "comments_count": 0,
+        "timestamp": "01/06/2022",
+        "tags": [],
+        "category": "Linguagem de Programação"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/formacao-academica-no-curriculo/",
+        "title": "Formação acadêmica no currículo: como incluir faculdade e pós?",
+        "writer": "Lucas Custódio",
+        "summary": "Sabemos que a questão de como fazer um currículo não é fácil. Apesar de termos toda a informação e sabermos muitas vezes o que é necessário constar, como colocá-las de maneira que fique objetivo seja possível evidenciar tudo que desejamos mostrar para quem esteja recrutando? Um exemplo bem nítido disso é sobre colocar formação acadêmica no currículo: “o que colocar, e, como colocar no currículo que estou cursando faculdade e pós?”.",
+        "comments_count": 0,
+        "timestamp": "30/05/2022",
+        "tags": [],
+        "category": "Carreira"
+    },
+    {
+        "url": "https://blog.betrybe.com/carreira/gatilho-mental-tudo-sobre/",
+        "title": "Gatilho mental: o que é e 20 para utilizar nas vendas!",
+        "writer": "Lucas Custódio",
+        "summary": "Talvez o termo “gatilho mental” não seja novo para você. Mesmo que você não se lembre de seu significado ou de tê-lo visto em algum lugar por aí, muito provavelmente você já deve tê-lo encontrado, seja em compras online, palestras ou em histórias sendo contadas por meio de técnicas de Storytelling.",
+        "comments_count": 0,
+        "timestamp": "27/05/2022",
+        "tags": [],
+        "category": "Carreira"
+    }
+]
