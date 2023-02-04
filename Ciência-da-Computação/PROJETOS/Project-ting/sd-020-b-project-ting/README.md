@@ -1,0 +1,3 @@
+# Project TING
+
+Projeto individual feito em Python, visando aplicar as teorias de TAD Fila, reforçar complexidade de código e Clean Code. Neste projeto foi-se criado funções de leitura de arquivo em python que adicionam o conteúdo do arquivo numa TAD estilo Fila, permitindo também a remoção e procura por index. Além disso Foi adicionado um estilo de procura por palavra do conteúdo do arquivo, o que me gerou uma certa dificuldade, pois tentei criar um código com complexidade de tempo O(n) máximo O(n²), quebrando a cabeça consegui com a complexidade O(n²), procurarei no futuro refatorar este código buscando quem sabe um complexidade menor
