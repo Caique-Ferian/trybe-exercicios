@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Fundamentos%20do%20Desenvolvimento%20Web/PROJETOS/playground-functions)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -43,11 +43,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [X] 5-5: _[Projeto - Arte com Pixels]()_
-- [X] 5-6: _[Projeto - Lista de tarefas]()_
-- [X] 5-7: _[Projeto - Meme Generator]()_
-- [X] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [X] 5-7: _[Projeto - Carta Misteriosa]()_
+- [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Fundamentos%20do%20Desenvolvimento%20Web/PROJETOS/pixels-art)_
+- [X] 5-6: _[Projeto - Lista de tarefas](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Fundamentos%20do%20Desenvolvimento%20Web/PROJETOS/todo-list)_
+- [X] 5-7: _[Projeto - Meme Generator](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Fundamentos%20do%20Desenvolvimento%20Web/PROJETOS/meme-generator)_
+- [X] 5-7: _[Projeto - Adivinhe a Cor](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Fundamentos%20do%20Desenvolvimento%20Web/PROJETOS/color-guess)_
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -72,7 +71,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [X] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [X] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [X] 8-6: _[Projeto - Zoo functions]()_
+- [X] 8-6: _[Projeto - Zoo functions](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Fundamentos%20do%20Desenvolvimento%20Web/PROJETOS/zoo-functions)_
 
 ## Desenvolvimento Front-end ✅:
 
@@ -81,36 +80,36 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
 - [X] 9-3: _Jest - Testes Assíncronos_
-- [X] 9-3: _[Projeto - Carrinho de Compras]()_
+- [X] 9-3: _[Projeto - Carrinho de Compras](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Fundamentos%20do%20Desenvolvimento%20Web/PROJETOS/shopping-cart)_
 
 ##### Bloco 10: Introdução à React
 
 - [X] 10-1: _'Hello, world!' no React!_
 - [X] 10-2: _Componentes React_
-- [X] 10-3: _[Projeto - Sistema Solar]()_
+- [X] 10-3: _[Projeto - Sistema Solar](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project%20Solar-System/sd-019-c-project-solar-system)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
 - [X] 11-1: _Components com estado_
 - [X] 11-2: _Formulários no React_
-- [X] 11-3: _[Projeto - Tryunfo]()_
+- [X] 11-3: _[Projeto - Tryunfo](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project%20Tryunfo/sd-019-c-project-tryunfo)_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
 - [X] 12-1: _Ciclo de vida de componentes_
 - [X] 12-2: _React Router_
-- [X] 12-3: _[Projeto - TrybeTunes]()_
+- [X] 12-3: _[Projeto - TrybeTunes](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project-Trybe-Tunes/sd-019-c-project-trybetunes)_
 
 ##### Bloco 13: Metodologias Ágeis
 
 - [X] 13-1: _Metodologias Ágeis_
-- [X] 13-2: _[Projeto - Frontend Online Store]()_
+- [X] 13-2: _[Projeto - Frontend Online Store](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project%20Frontend-online-store/sd-019-c-project-frontend-online-store)_
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
 - [X] 14-1: _RTL - Mocks e Inputs_
 - [X] 14-2: _RTL - Testando React Router_
-- [X] 14-3: _[Projeto - Testes em React]()_
+- [X] 14-3: _[Projeto - Testes em React](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project-React-Testing-Library/sd-019-c-project-react-testing-library)_
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
@@ -119,22 +118,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 15-3: _Usando o Redux no React - Prática_
 - [X] 15-4: _Usando o Redux no React - Actions Assíncronas_
 - [X] 15-5: _Testes em React-Redux_
-- [X] 15-6: _[Projeto - Trybe Wallet]()_
+- [X] 15-6: _[Projeto - Trybe Wallet](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project-Trybe-Wallet/sd-019-c-project-trybewallet)_
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
-- [X] 16-1: _[Projeto - Jogo de Trivia]()_
+- [X] 16-1: _[Projeto - Jogo de Trivia](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project-Trivia-react-redux/sd-019-c-project-trivia-react-redux)_
 
 ##### Bloco 17: Context API e React Hooks
 
 - [X] 17-1: _Context API do React_
 - [X] 17-2: _React Hooks - useState e useContext_
 - [X] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [X] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [X] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project%20Starwars-planets-search/sd-019-c-project-starwars-planets-search)_
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [X] 18-1: _[Projeto - App de Receitas]()_
+- [X] 18-1: _[Projeto - App de Receitas](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Front-end/PROJETOS/Project-App-de-Receita/sd-019-c-project-recipes-app)_
 
 ## Desenvolvimento Back-end ✅:
 
