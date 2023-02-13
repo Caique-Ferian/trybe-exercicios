@@ -234,7 +234,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 32-1: _Dia 1 - VPS_
 - [X] 32-2: _Dia 2_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação ✅
 
 ##### Bloco 33: Introdução à Python
 
@@ -274,7 +274,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 38: Estrutura de Dados 2 - Hashmaps e Sets
 
-- [ ] 38-1: _Hashmap e Dict_
-- [ ] 38-2: _Set_
-- [ ] 38-3: _[Projeto Restaurant Orders]()_
+- [X] 38-1: _Hashmap e Dict_
+- [X] 38-2: _Set_
+- [X] 38-3: _[Projeto Restaurant Orders]()_
 
