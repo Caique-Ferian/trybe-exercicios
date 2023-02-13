@@ -142,7 +142,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 19-1: _Utilizando Containers - Docker_
 - [X] 19-2: _Manipulando Imagens no Docker_
 - [X] 19-3: _Orquestrando Containers com Docker Compose_
-- [X] 19-4: _[Projeto - Docker Todo-List]()_
+- [X] 19-4: _[Projeto - Docker Todo-List](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-docker-todo-list/sd-019-c-project-docker-todo-list)_
 
 ##### Bloco 20: Introdução à SQL
 
@@ -150,14 +150,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 20-2: _Encontrando dados em um banco de dados_
 - [X] 20-3: _Filtrando dados de forma específica_
 - [X] 20-4: _Manipulando tabelas_
-- [X] 20-5: _[Projeto - All For One]()_
+- [X] 20-5: _[Projeto - All For One](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-mySQL-All-For-One/sd-020-b-mysql-all-for-one)_
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
 - [X] 21-1: _Funções mais usadas no SQL_
 - [X] 21-2: _Descomplicando JOINs_
 - [X] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [X] 21-4: _[Projeto - One For All]()_
+- [X] 21-4: _[Projeto - One For All](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-mySQL-One-For-All/sd-020-b-mysql-one-for-all)_
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
@@ -166,14 +166,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 22-3: _Node.js - Testes de Integração_
 - [X] 22-4: _Express - Middlewares_
 - [X] 22-5: _Node.js - Express e Mysql_
-- [X] 22-6: _[Projeto - Talker Manager]()_
+- [X] 22-6: _[Projeto - Talker Manager](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-talker-manager/sd-020-b-project-talker-manager)_
 
 ##### Bloco 23: Node.js - Camada de Serviço e Arquitetura Rest e Restful
 
 - [X] 23-1: _Arquitetura de Software - Camada Model_
 - [X] 23-2: _Arquitetura de Software - Camada de Services_
 - [X] 23-3: _Arquitetura de Software - Camada Controller_
-- [X] 23-4: _[Projeto - Store Manager]()_
+- [X] 23-4: _[Projeto - Store Manager](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-Store-Manager/sd-020-b-store-manager)_
 
 ##### Bloco 24: Node.js - ORM e Autenticação
 
@@ -181,20 +181,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 24-2: _ORM - Associations_
 - [X] 24-3: _JWT - (JSON Web Token)_
 - [X] 24-4: _Testando APIs com Testes de Integração_
-- [X] 24-5: _[Projeto - API de Blogs]()_
+- [X] 24-5: _[Projeto - API de Blogs](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-blogs-api/sd-020-b-project-blogs-api)_
 
 ##### Bloco 25: Deployment
 
 - [X] 25-1: _Infraestrutura - Deploy com Heroku_
 - [X] 25-2: _Deploy Docker & Heroku_
-- [X] 25-3: _[Projeto - Stranger Things]()_
+- [X] 25-3: _[Projeto - Stranger Things](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-Stranger-things)_
 
 ##### Bloco 26: TypeScript
 
 - [X] 26-1: _Introdução ao TypeScript_
 - [X] 26-2: _Tipagem Estática e Generics_
 - [X] 26-3: _Express com TypeScript_
-- [X] 26-4: _[Projeto - Trybe Smith]()_
+- [X] 26-4: _[Projeto - Trybe Smith](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-Trybesmith/sd-020-b-project-trybesmith)_
 
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
@@ -203,11 +203,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 27-3: _Polimorfismo_
 - [X] 27-4: _SOLID - Introdução e Princípios S, O e D_
 - [X] 27-5: _SOLID - Princípios L e I_
-- [X] 27-6: _[Projeto - Trybers and Dragons]()_
+- [X] 27-6: _[Projeto - Trybers and Dragons](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-Trybers-and-Dragons/sd-020-b-project-trybers-and-dragons)_
 
 ##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 
-- [X] 28-1: _[Projeto - TFC - Trybe Futebol Clube]()_
+- [X] 28-1: _[Projeto - TFC - Trybe Futebol Clube](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-Trybe-Futebol-Club/sd-020-b-trybe-futebol-clube)_
 
 ##### Bloco 29: Introdução ao MongoDB
 
@@ -216,7 +216,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 29-3: _Operadores de consulta_
 - [X] 29-4: _Updates Simples_
 - [X] 29-5: _Updates Complexos - Arrays_
-- [X] 29-6: _[Projeto - Commerce]()_
+- [X] 29-6: _[Projeto - Commerce](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-Commerce/sd-020-b-mongodb-commerce)_
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
@@ -226,7 +226,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 31: Projeto - App de Delivery
 
-- [X] 31-1: _[Projeto - App de Delivery]()_
+- [X] 31-1: _[Projeto - App de Delivery](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Desenvolvimento%20Back-end/PROJETOS/Project-Car-Shop/sd-020-b-project-car-shop)_
 
 ##### Bloco 32: MasterClass - VPS, CI/CD
 
@@ -240,28 +240,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 33-1: _Aprendendo Python_
 - [X] 33-2: _Entrada e Saída de Dados_
 - [X] 33-3: _Testes_
-- [X] 33-4: _[Projeto - Job Insights]()_
+- [X] 33-4: _[Projeto - Job Insights](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o/PROJETOS/Project-job-insights/sd-020-b-project-job-insights)_
 
 ##### Bloco 34: Padrões de Projeto
 
 - [X] 34-1: _P.O.O em Python_
 - [X] 34-2: _Padrões - Iterator, Adapter, Strategy_
 - [X] 34-3: _Padrões - Decorator, Observer, Factory_
-- [X] 34-4: _[Projeto - Relatórios de Estoque]()_
+- [X] 34-4: _[Projeto - Relatórios de Estoque](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o/PROJETOS/Project-inventory-report/sd-020-b-inventory-report)_
 
 ##### Bloco 35: Redes e Raspagem de Dados
 
 - [X] 35-1: _Arquitetura de redes, ferramentas e segurança_
 - [X] 35-2: _Raspagem de Dados_
 - [X] 35-3: _Outras Ferramentas de Raspagem de Dados_
-- [X] 35-4: _[Projeto - Tech news]()_
+- [X] 35-4: _[Projeto - Tech news](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o/PROJETOS/Project-tech-news/sd-020-b-tech-news)_
 
 ##### Bloco 36: Algoritmos
 
 - [X] 36-1: _Complexidade de Algoritmos_
 - [X] 36-2: _Recursividade e Estratégias para solução de problemas_
 - [X] 36-3: _Algoritmos de ordenação e busca_
-- [X] 36-4: _[Projeto - Algoritmos]()_
+- [X] 36-4: _[Projeto - Algoritmos](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o/PROJETOS/Project-algorithms/sd-020-b-project-algorithms)_
 
 ##### Bloco 37: Estrutura de Dados 1 - Arrays, Listas, Filas e Pilhas
 
@@ -269,11 +269,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 37-2: _Arrays_
 - [X] 37-3: _Nó e Listas Encadeadas_
 - [X] 37-4: _Pilhas e Filas_
-- [X] 37-5: _[Projeto - TING - Trybe Is Not Google]()_
+- [X] 37-5: _[Projeto - TING - Trybe Is Not Google](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o/PROJETOS/Project-ting/sd-020-b-project-ting)_
 
 ##### Bloco 38: Estrutura de Dados 2 - Hashmaps e Sets
 
 - [X] 38-1: _Hashmap e Dict_
 - [X] 38-2: _Set_
-- [X] 38-3: _[Projeto Restaurant Orders]()_
+- [X] 38-3: _[Projeto Restaurant Orders](https://github.com/Caique-Ferian/trybe-exercicios/tree/master/Ci%C3%AAncia-da-Computa%C3%A7%C3%A3o/PROJETOS/Project-restaurant-orders/sd-020-b-restaurant-orders)_
 
